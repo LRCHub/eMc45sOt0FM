@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "One More Last Time",
+  "base_artist": "Henry Young",
+  "createdAt": "2026-02-20T18:03:16.225799Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One More Last Time",
+      "artist": "Vienna Vienna",
+      "has_synced": true,
+      "path": "select/01_One_More_Last_Time_Vienna_Vienna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One More Last Time",
+      "artist": "Henry Young",
+      "has_synced": false,
+      "path": "select/02_One_More_Last_Time_Henry_Young.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One More Last Time",
+      "artist": "Henry Young, Ashley Alisha",
+      "has_synced": true,
+      "path": "select/03_One_More_Last_Time_Henry_Young,_Ashley_Alisha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One More Last Time",
+      "artist": "Henry Young、Ashley Alisha",
+      "has_synced": true,
+      "path": "select/04_One_More_Last_Time_Henry_Young、Ashley_Alisha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One More Last Time (sped up)",
+      "artist": "Henry Young",
+      "has_synced": true,
+      "path": "select/05_One_More_Last_Time_(sped_up)_Henry_Young.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One More Last Time (slowed)",
+      "artist": "Henry Young",
+      "has_synced": true,
+      "path": "select/06_One_More_Last_Time_(slowed)_Henry_Young.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Henry Young - One More Last Time (feat. Ashley Alisha)",
+      "artist": "Henry Young",
+      "has_synced": true,
+      "path": "select/07_Henry_Young_-_One_More_Last_Time_(feat._Ashley_Alisha)_Henry_Young.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One More Last Time (Instrumental)",
+      "artist": "Henry Young & Ashley Alisha",
+      "has_synced": true,
+      "path": "select/08_One_More_Last_Time_(Instrumental)_Henry_Young_&_Ashley_Alisha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One More Last Time (feat. Ashley Alisha)",
+      "artist": "Henry Young",
+      "has_synced": true,
+      "path": "select/09_One_More_Last_Time_(feat._Ashley_Alisha)_Henry_Young.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One More Last Time (feat. Ashley Alisha)",
+      "artist": "Henry Young/Ashley Alisha",
+      "has_synced": true,
+      "path": "select/10_One_More_Last_Time_(feat._Ashley_Alisha)_Henry_Young_Ashley_Alisha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One More Last Time",
+      "artist": "Henry Young, Ashley Alisha",
+      "has_synced": false,
+      "path": "select/pl_01_One_More_Last_Time_Henry_Young,_Ashley_Alisha.txt"
+    }
+  ]
+}
